@@ -3,4 +3,4 @@
 
 - 🌱 I’m currently studying Systems Engineering at University and Web Development.
 
-<img src="https://github-readme-stats.vercel.app/api?username=andermendz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=andermendz&&show_icons=true&title_color=0E86D4&icon_color=769fcd&text_color=003060&bg_color=d6e6f2">
